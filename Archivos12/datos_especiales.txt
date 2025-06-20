@@ -1,3 +1,0 @@
-¡Hola, mundo!
-Este es un ejemplo de archivo con caracteres especiales: ñ, á, é, í, ó, ú.
-Adiós, mundo!
