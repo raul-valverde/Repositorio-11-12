@@ -1,0 +1,17 @@
+def calcular_comision(ventas):
+    """Calcula la comisión del 10% sobre el total de las ventas."""
+    return sum(ventas) * 0.10
+
+n = int(input("Ingrese la cantidad de vendedores: "))
+
+for i in range(1, n + 1):
+    print(f"\nVendedor {i}:")
+    sueldo_base = float(input("  Ingrese el sueldo base: "))
+    ventas = []
+    for j in range(1, 4):
+        venta = float(input(f"  Ingrese el monto de la venta {j}: "))
+        ventas.append(venta)
+    comision = calcular_comision(ventas)
+    total = sueldo_base + comision
+    print(f"  Comisión por ventas: ${comision:.2f}")
+    print(f"  Total semanal (sueldo + comisión): ${total:.2f}")
