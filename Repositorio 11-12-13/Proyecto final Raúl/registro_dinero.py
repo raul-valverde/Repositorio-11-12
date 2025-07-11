@@ -1,0 +1,1 @@
+dinero_total = 71.55

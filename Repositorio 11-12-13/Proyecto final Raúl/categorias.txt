@@ -1,0 +1,41 @@
+[Cafeteria]
+101,Leche Entera,1.75
+102,Leche Deslactosada,1.90
+103,Agua purificada,5.50
+104,Cafe presto 400g,3.10
+105,Cafe Selecto Superior 200g ,3.50
+
+[Ambientadores Galones]
+201,Fragancia Limon,2
+202,Fragancia Bebe,2
+203,Fragancia Jardín,2
+204,Fragancia Canela,3
+205,Fragancia Cereza,2.50
+
+[Aereosol]
+301,Lyson 500ml ,3
+302,Glade 450ml ,2.50
+303,Pledge limpia muebles 378ml,5.10
+304,Limpia Vidrio MR. Musculo 500ml,3.40
+305,Glade P/Autos clipo 7ml,1.60
+
+[Pastilla Sanitaria]
+401,Pastilla Sanitaria Terror 50gr ,0.80
+402,Pastilla Sanitaria Pato Azul,3.35
+403,Gel Pato Disco Activo 36ml,5.00
+404,Pastilla Sanitaria Wesie 50gr, 0.90
+405,Tapete Anti-Salpicadura UND,5.50
+
+[Aseo Personal]
+501,Jabón Corporal,1.85
+502,Jabon p/M GAL,3.20
+503,Jabon p/M l,1.50
+504,Papel Higiénico 4x1,3.50
+505,cepillo dental Pk/3,2.40
+
+[Productos de Limpieza]
+601,Detergente Líquido,3.50
+602,Suavizante de Ropa,2.90
+603,Detergente en polvo,2.30
+604,Pinesol Gal,6.50
+605,Jabon industrial Gal,7.50

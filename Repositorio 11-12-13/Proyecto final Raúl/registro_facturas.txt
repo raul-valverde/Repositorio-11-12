@@ -1,0 +1,4 @@
+2025-06-25 20:00:15 - Cajero: francisco - Total: $11.20
+2025-06-27 11:06:26 - Cajero: raul - Total: $9.75
+2025-07-06 18:25:01 - Cajero: raul - Total: $13.10
+2025-07-08 12:51:36 - Cajero: raul - Total: $37.50

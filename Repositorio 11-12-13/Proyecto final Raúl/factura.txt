@@ -1,0 +1,7 @@
+FACTURA
+Cajero: raul
+Fecha y hora: 2025-07-08 12:51:36
+
+Jabon industrial Gal x5 = $37.50
+
+TOTAL: $37.50
